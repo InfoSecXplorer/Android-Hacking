@@ -18,7 +18,7 @@ In this exciting episode of InfoSecXplorer, we dive deeper into the world of eth
 
 ## Part 3: Automatic APK Payload Injection with Evil Droid: A Comprehensive Guide
 
-In this exciting episode of InfoSecXplorer, we delve into the exciting realm of Android hacking with a special focus on the incredible tool known as "Evil Droid. Discover how this tool simplifies the complex task of injecting payloads into Android applications, all while saving you valuable time and effort. It streamlines the process, making it accessible even to those with limited hacking experience.
+In this exciting episode of InfoSecXplorer, we delve into the exciting realm of Android hacking with a special focus on the incredible tool known as "Evil Droid". Discover how this tool simplifies the complex task of injecting payloads into Android applications, all while saving you valuable time and effort. It streamlines the process, making it accessible even to those with limited hacking experience.
 
 📺 **Watch Part 3**: https://youtu.be/HidmrwcJKiA
 
