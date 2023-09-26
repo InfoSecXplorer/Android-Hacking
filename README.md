@@ -12,7 +12,7 @@ In this video, we guide you through setting up your hacking lab, a secure and co
 
 ## Part 2: Advanced Android Hacking - Embedding Payloads into Original APKs | Malware Analysis Tool
 
-In this exciting episode of InfoSecXplorer, we dive deeper into the world of ethical hacking and cybersecurity. We'll guide you through the intricate process of embedding a payload into an original Android application (APK) to gain remote access, all while keeping your activities secure and undetectable. Plus, we introduce you to NGROK, a powerful tool that allows you to expose your local web server to the internet securely.
+In this exciting episode of InfoSecXplorer, we dive deeper into the world of ethical hacking and cybersecurity. We'll guide you through the intricate process of embedding a payload into an original Android application (APK) to gain remote access, all while keeping your activities secure and undetectable. Plus, we introduce you to Telebit, a powerful tool that allows you to expose your local TCP/IP to the internet securely.
 
 📺 **Watch Part 2**: https://youtu.be/q9PxfyMpr3s
 
