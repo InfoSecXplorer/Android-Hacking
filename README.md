@@ -12,13 +12,13 @@ In this video, we guide you through setting up your hacking lab, a secure and co
 
 ## Part 2: Advanced Android Hacking - Embedding Payloads into Original APKs | Malware Analysis Tool
 
-In this exciting episode of InfoSec Explorer, we dive deeper into the world of ethical hacking and cybersecurity. We'll guide you through the intricate process of embedding a payload into an original Android application (APK) to gain remote access, all while keeping your activities secure and undetectable. Plus, we introduce you to NGROK, a powerful tool that allows you to expose your local web server to the internet securely.
+In this exciting episode of InfoSecXplorer, we dive deeper into the world of ethical hacking and cybersecurity. We'll guide you through the intricate process of embedding a payload into an original Android application (APK) to gain remote access, all while keeping your activities secure and undetectable. Plus, we introduce you to NGROK, a powerful tool that allows you to expose your local web server to the internet securely.
 
 📺 **Watch Part 2**: https://youtu.be/q9PxfyMpr3s
 
 ## Part 3: Automatic APK Payload Injection with Evil Droid: A Comprehensive Guide
 
-In this exciting episode of InfoSec Explorer, we delve into the exciting realm of Android hacking with a special focus on the incredible tool known as "Evil Droid. Discover how this tool simplifies the complex task of injecting payloads into Android applications, all while saving you valuable time and effort. It streamlines the process, making it accessible even to those with limited hacking experience.
+In this exciting episode of InfoSecXplorer, we delve into the exciting realm of Android hacking with a special focus on the incredible tool known as "Evil Droid. Discover how this tool simplifies the complex task of injecting payloads into Android applications, all while saving you valuable time and effort. It streamlines the process, making it accessible even to those with limited hacking experience.
 
 📺 **Watch Part 3**: https://youtu.be/HidmrwcJKiA
 
